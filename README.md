@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on GitHub!
 - 📫 How to reach me: gordienkoas@bk.ru
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordienkoas&theme=dark&show_icons=true) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gordienkoas&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordienkoas&theme=dark&show_icons=true) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gordienkoas&repo=github-readme-stats)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordienkoas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
