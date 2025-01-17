@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Hexlet!
+- 🌱 I’m currently learning Hexlet.io!
 - 👯 I’m looking to collaborate on GitHub!
 - 📫 How to reach me: gordienkoas@bk.ru
   
