@@ -11,7 +11,20 @@
 
 ### Technologies:
 
-![Python](https://www.python.org/) ![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) ![CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) ![Git](https://git-scm.com/) ![Docker](https://www.docker.com/) ![Linux](https://www.kernel.org/) ![Node.js](https://nodejs.org/) ![React](https://reactjs.org/) ![TypeScript](https://www.typescriptlang.org/) ![PostgreSQL](https://www.postgresql.org/) ![MySQL](https://www.mysql.com/)
+```markdown
+[![Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/) 
+[![JavaScript](https://developer.mozilla.org/static/img/web-docs-logos/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://developer.mozilla.org/static/img/web-docs-logos/html5.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+![CSS3](https://developer.mozilla.org/static/img/web-docs-logos/css.svg) 
+[![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)](https://git-scm.com/) 
+[![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)](https://www.docker.com/) 
+[![Linux](https://upload.wikimedia.org/wikipedia/commons/3/3a/Tux.svg)](https://www.kernel.org/) 
+[![Node.js](https://nodejs.org/static/images/logo.svg)](https://nodejs.org/) 
+[![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)](https://reactjs.org/) 
+[![TypeScript](https://cdn.iconscout.com/icon/free/png-256/typescript-1174965-987646.png)](https://www.typescriptlang.org/) 
+[![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)](https://www.postgresql.org/) 
+[![MySQL](https://upload.wikimedia.org/wikipedia/en/6/62/MySQL_logo.svg)](https://www.mysql.com/)
+```
 
 ### Connect with me:
 
