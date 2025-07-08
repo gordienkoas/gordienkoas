@@ -8,11 +8,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordienkoas&theme=dark&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordienkoas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**gordienkoas/gordienkoas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+---
 
 ### Connect with me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreysgordienko)  
-
 
