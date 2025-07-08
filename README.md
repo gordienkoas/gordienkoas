@@ -11,7 +11,6 @@
 
 ### Technologies:
 
-```markdown
 [![Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/) 
 [![JavaScript](https://developer.mozilla.org/static/img/web-docs-logos/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://developer.mozilla.org/static/img/web-docs-logos/html5.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -24,7 +23,7 @@
 [![TypeScript](https://cdn.iconscout.com/icon/free/png-256/typescript-1174965-987646.png)](https://www.typescriptlang.org/) 
 [![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)](https://www.postgresql.org/) 
 [![MySQL](https://upload.wikimedia.org/wikipedia/en/6/62/MySQL_logo.svg)](https://www.mysql.com/)
-```
+
 
 ### Connect with me:
 
