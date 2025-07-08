@@ -1,7 +1,9 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Hexlet.io!
+- 🌱 I’m currently learning [Hexlet.io](https://hexlet.io)!
 - 👯 I’m looking to collaborate on GitHub!
 - 📫 How to reach me: gordienkoas@bk.ru
+- 💬 Ask me about programming, Hexlet, and open source
+- ⚡ Fun fact: I love experimenting with new technologies!  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordienkoas&theme=dark&show_icons=true) 
 
@@ -9,14 +11,8 @@
 <!--
 **gordienkoas/gordienkoas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreysgordienko)  
+
+
